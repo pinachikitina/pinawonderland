@@ -1,2 +1,2 @@
 # pinawonderland
-✩‎ ‧₊˚✧ Welcome :) ✧˚₊‧ ✩
+void main() { print('✩‎ ‧₊˚✧ Welcome :) ✧˚₊‧ ✩'); }
